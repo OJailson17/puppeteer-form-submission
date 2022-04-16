@@ -1,0 +1,13 @@
+{
+	"name": "form-submition",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"license": "MIT",
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"dependencies": {
+		"puppeteer": "^13.5.2"
+	}
+}
