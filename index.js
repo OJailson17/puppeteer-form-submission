@@ -13,7 +13,7 @@ import puppeteer from 'puppeteer';
 	await page.goto('https://jailsondeoliveira.vercel.app/');
 
 	await page.type('#name', 'Automation Name');
-	await page.type('#email', 'jaylsono11@gmail.com');
+	await page.type('#email', 'jaylsono17@gmail.com');
 	await page.type('#subject', 'Automation Subject');
 	await page.type('#message', 'Automation Message');
 
