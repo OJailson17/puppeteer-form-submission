@@ -1,1 +1,1 @@
-Esse pequeno script em Node utiliza o Puppeteer para realizar o preenchimento e o submit do form de contato do meu [site pessoal](https://jailsondeoliveira.vercel.app).
+Esse pequeno script em Node utiliza o Puppeteer para realizar o preenchimento e o submit do form de contato do meu [site pessoal](https://jailsondeoliveira.vercel.app). Após dar submit no form, ele aguarda a resposta e tira um print, salvando o arquivo de imagem na raiz do projeto, fazendo com que seja possível ver o que aconteceu caso ocorra alguma resposta indesejada do servidor.
